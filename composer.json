@@ -13,7 +13,7 @@
             ],
             "files": [
                 "morris.min.js",
-                "morris.css",
+                "morris.css"
             ]
         }
     }
