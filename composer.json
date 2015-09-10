@@ -14,7 +14,10 @@
             "files": [
                 "morris.min.js",
                 "morris.css"
-            ]
+            ],
+	    "installer-paths": {
+		    "public/js/vendor/{$name}": ["morrisjs/morris.js"]
+	    }
         }
     }
 }
