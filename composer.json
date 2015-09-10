@@ -1,0 +1,6 @@
+{
+    "name": "morrisjs/morris.js",
+    "description": "Pretty time-series line graphs",
+    "require": {        
+    }
+}
