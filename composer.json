@@ -1,9 +1,20 @@
 {
     "name": "morrisjs/morris.js",
     "description": "Pretty time-series line graphs",
-    "type": "library",
+    "type": "component",
     "keywords": ["morrisjs","graphs"],
     "license": "MIT",
     "require": {        
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "morris.js"
+            ],
+            "files": [
+                "morris.min.js",
+                "morris.css",
+            ]
+        }
     }
 }
